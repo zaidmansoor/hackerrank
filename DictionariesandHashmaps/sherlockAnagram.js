@@ -43,3 +43,6 @@ function sherlockAndAnagrams(s) {
     
     return num;
 }
+
+console.log("ifailuhkqq", sherlockAndAnagrams("ifailuhkqq"));
+console.log("kkkk", sherlockAndAnagrams("kkkk"));
